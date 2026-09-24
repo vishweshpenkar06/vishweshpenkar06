@@ -1,0 +1,30 @@
+<svg width="900" height="110" viewBox="0 0 900 110" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'SF Mono', Menlo, monospace">
+  <rect x="1" y="1" width="898" height="108" rx="12" fill="#0D1117" stroke="#21262D" stroke-width="1.2"/>
+
+  <g font-size="14" font-weight="700">
+    <rect x="40" y="34" width="130" height="42" rx="21" fill="#151226" stroke="#A78BFA"/>
+    <text x="105" y="60" fill="#A78BFA" text-anchor="middle">BUILD</text>
+
+    <rect x="240" y="34" width="130" height="42" rx="21" fill="#151226" stroke="#22D3EE"/>
+    <text x="305" y="60" fill="#22D3EE" text-anchor="middle">LEARN</text>
+
+    <rect x="440" y="34" width="150" height="42" rx="21" fill="#151226" stroke="#34D399"/>
+    <text x="515" y="60" fill="#34D399" text-anchor="middle">EXPERIMENT</text>
+
+    <rect x="660" y="34" width="130" height="42" rx="21" fill="#151226" stroke="#EC4899"/>
+    <text x="725" y="60" fill="#EC4899" text-anchor="middle">REPEAT</text>
+  </g>
+
+  <g stroke="#3B3364" stroke-width="1.6" fill="none">
+    <path d="M172 55 L238 55" marker-end="url(#arrow)"/>
+    <path d="M372 55 L438 55" marker-end="url(#arrow)"/>
+    <path d="M592 55 L658 55" marker-end="url(#arrow)"/>
+    <path d="M725 76 Q725 100 500 100 Q120 100 105 76" marker-end="url(#arrow)"/>
+  </g>
+
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#3B3364"/>
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,35 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'SF Mono', Menlo, monospace">
+  <rect x="1" y="1" width="898" height="298" rx="12" fill="#0A0E17" stroke="#21262D" stroke-width="1.2"/>
+
+  <!-- title bar -->
+  <rect x="1" y="1" width="898" height="34" rx="12" fill="#10141F"/>
+  <rect x="1" y="18" width="898" height="17" fill="#10141F"/>
+  <circle cx="26" cy="18" r="6" fill="#FF5F56"/>
+  <circle cx="46" cy="18" r="6" fill="#FFBD2E"/>
+  <circle cx="66" cy="18" r="6" fill="#27C93F"/>
+  <text x="450" y="23" font-size="12" fill="#565F71" text-anchor="middle">status.sh</text>
+  <line x1="1" y1="35" x2="899" y2="35" stroke="#21262D" stroke-width="1"/>
+
+  <!-- log lines -->
+  <g font-size="14.5">
+    <text x="30" y="68" fill="#34D399">$</text>
+    <text x="48" y="68" fill="#E6EDF3">whoami</text>
+    <text x="48" y="90" fill="#8B949E">vishwesh-penkar — aspiring software developer</text>
+
+    <text x="30" y="124" fill="#34D399">$</text>
+    <text x="48" y="124" fill="#E6EDF3">cat current_focus.json</text>
+    <text x="48" y="146" fill="#22D3EE">[ "AI Systems", "Full-Stack Web", "Search &amp; Retrieval" ]</text>
+
+    <text x="30" y="180" fill="#34D399">$</text>
+    <text x="48" y="180" fill="#E6EDF3">echo $NOW_BUILDING</text>
+    <text x="48" y="202" fill="#C4B5FD">"AdaptIQ — adaptive learning powered by knowledge graphs"</text>
+
+    <text x="30" y="236" fill="#34D399">$</text>
+    <text x="48" y="236" fill="#E6EDF3">echo $LOCATION</text>
+    <text x="48" y="258" fill="#8B949E">Kharghar, India · Saraswati College of Engineering</text>
+  </g>
+
+  <rect x="200" y="246" width="9" height="16" fill="#A78BFA">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

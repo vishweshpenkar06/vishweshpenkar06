@@ -1,0 +1,72 @@
+<svg width="900" height="400" viewBox="0 0 900 400" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'SF Mono', Menlo, monospace">
+  <rect x="1" y="1" width="898" height="398" rx="12" fill="#0D1117" stroke="#21262D" stroke-width="1.2"/>
+
+  <text x="34" y="42" font-size="13" fill="#565F71" letter-spacing="2">TECHNOLOGY MATRIX</text>
+  <line x1="34" y1="54" x2="866" y2="54" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Row 1: Languages -->
+  <circle cx="40" cy="86" r="4" fill="#A78BFA"/>
+  <text x="56" y="91" font-size="13.5" fill="#9CA3AF">Languages</text>
+  <g font-size="12.5" fill="#E6EDF3">
+    <rect x="210" y="74" width="94" height="28" rx="6" fill="#151226" stroke="#3178C6"/>
+    <text x="224" y="93">TypeScript</text>
+    <rect x="316" y="74" width="76" height="28" rx="6" fill="#151226" stroke="#3776AB"/>
+    <text x="330" y="93">Python</text>
+    <rect x="404" y="74" width="94" height="28" rx="6" fill="#151226" stroke="#F7DF1E"/>
+    <text x="418" y="93">JavaScript</text>
+  </g>
+  <line x1="34" y1="118" x2="866" y2="118" stroke="#181C26" stroke-width="1"/>
+
+  <!-- Row 2: Frontend -->
+  <circle cx="40" cy="150" r="4" fill="#22D3EE"/>
+  <text x="56" y="155" font-size="13.5" fill="#9CA3AF">Frontend</text>
+  <g font-size="12.5" fill="#E6EDF3">
+    <rect x="210" y="138" width="66" height="28" rx="6" fill="#151226" stroke="#61DAFB"/>
+    <text x="224" y="157">React</text>
+    <rect x="286" y="138" width="88" height="28" rx="6" fill="#151226" stroke="#FFFFFF"/>
+    <text x="300" y="157">Next.js</text>
+    <rect x="384" y="138" width="132" height="28" rx="6" fill="#151226" stroke="#06B6D4"/>
+    <text x="398" y="157">Tailwind CSS</text>
+  </g>
+  <line x1="34" y1="182" x2="866" y2="182" stroke="#181C26" stroke-width="1"/>
+
+  <!-- Row 3: Backend & Data -->
+  <circle cx="40" cy="214" r="4" fill="#34D399"/>
+  <text x="56" y="219" font-size="13.5" fill="#9CA3AF">Backend / Data</text>
+  <g font-size="12.5" fill="#E6EDF3">
+    <rect x="210" y="202" width="92" height="28" rx="6" fill="#151226" stroke="#339933"/>
+    <text x="224" y="221">Node.js</text>
+    <rect x="316" y="202" width="74" height="28" rx="6" fill="#151226" stroke="#FFFFFF"/>
+    <text x="330" y="221">Flask</text>
+    <rect x="404" y="202" width="118" height="28" rx="6" fill="#151226" stroke="#4169E1"/>
+    <text x="418" y="221">PostgreSQL</text>
+  </g>
+  <line x1="34" y1="246" x2="866" y2="246" stroke="#181C26" stroke-width="1"/>
+
+  <!-- Row 4: AI / ML -->
+  <circle cx="40" cy="278" r="4" fill="#F59E0B"/>
+  <text x="56" y="283" font-size="13.5" fill="#9CA3AF">AI / ML</text>
+  <g font-size="12.5" fill="#E6EDF3">
+    <rect x="210" y="266" width="96" height="28" rx="6" fill="#151226" stroke="#412991"/>
+    <text x="224" y="285">OpenAI API</text>
+    <rect x="316" y="266" width="132" height="28" rx="6" fill="#151226" stroke="#F7931E"/>
+    <text x="330" y="285">scikit-learn</text>
+    <rect x="458" y="266" width="82" height="28" rx="6" fill="#151226" stroke="#150458"/>
+    <text x="472" y="285">Pandas</text>
+  </g>
+  <line x1="34" y1="310" x2="866" y2="310" stroke="#181C26" stroke-width="1"/>
+
+  <!-- Row 5: Tools -->
+  <circle cx="40" cy="342" r="4" fill="#EC4899"/>
+  <text x="56" y="347" font-size="13.5" fill="#9CA3AF">Tools</text>
+  <g font-size="12.5" fill="#E6EDF3">
+    <rect x="210" y="330" width="58" height="28" rx="6" fill="#151226" stroke="#F05032"/>
+    <text x="224" y="349">Git</text>
+    <rect x="278" y="330" width="106" height="28" rx="6" fill="#151226" stroke="#007ACC"/>
+    <text x="292" y="349">VS Code</text>
+    <rect x="394" y="330" width="76" height="28" rx="6" fill="#151226" stroke="#F24E1E"/>
+    <text x="408" y="349">Figma</text>
+  </g>
+
+  <text x="866" y="386" font-size="11.5" fill="#3B3364" text-anchor="end">building_range: [web, ai, systems]</text>
+</svg>

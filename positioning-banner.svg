@@ -1,0 +1,16 @@
+<svg width="900" height="88" viewBox="0 0 900 88" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'SF Mono', Menlo, monospace">
+  <defs>
+    <linearGradient id="pbBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#120A24"/>
+      <stop offset="100%" stop-color="#0A0E17"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="88" rx="12" fill="url(#pbBg)"/>
+  <rect x="1" y="1" width="898" height="86" rx="11" fill="none" stroke="#2D2450" stroke-width="1.2"/>
+  <text x="450" y="40" font-size="17" fill="#E6EDF3" text-anchor="middle" font-weight="600">
+    "I don't just call the API — I build what's underneath it."
+  </text>
+  <text x="450" y="65" font-size="12.5" fill="#7C8291" text-anchor="middle">
+    Search engines, learning graphs, and AI systems — built from first principles.
+  </text>
+</svg>

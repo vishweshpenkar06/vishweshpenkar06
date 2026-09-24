@@ -1,0 +1,25 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'SF Mono', Menlo, monospace">
+  <defs>
+    <linearGradient id="sfBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120A24"/>
+      <stop offset="100%" stop-color="#0A0E17"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="140" rx="14" fill="url(#sfBg)"/>
+  <rect x="1" y="1" width="898" height="138" rx="13" fill="none" stroke="#2D2450" stroke-width="1.2"/>
+
+  <text x="450" y="42" font-size="15" fill="#8B949E" text-anchor="middle" letter-spacing="1.5">LET'S BUILD SOMETHING</text>
+
+  <g font-size="13.5" font-weight="600">
+    <rect x="180" y="64" width="150" height="38" rx="19" fill="#151226" stroke="#3B3364"/>
+    <text x="255" y="88" fill="#E6EDF3" text-anchor="middle">⌥ GitHub</text>
+
+    <rect x="360" y="64" width="160" height="38" rx="19" fill="#151226" stroke="#3B3364"/>
+    <text x="440" y="88" fill="#E6EDF3" text-anchor="middle">in LinkedIn</text>
+
+    <rect x="550" y="64" width="150" height="38" rx="19" fill="#151226" stroke="#3B3364"/>
+    <text x="625" y="88" fill="#E6EDF3" text-anchor="middle">✉ Email</text>
+  </g>
+
+  <text x="450" y="122" font-size="12" fill="#3B3364" text-anchor="middle">Building intelligent systems, one commit at a time.</text>
+</svg>
